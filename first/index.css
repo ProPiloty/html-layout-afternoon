@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #b6b6b6;
+}
+
+.grayBlock {
+    background-color: #4d4d4d;
+    height: 150px;
+    width: 100%;
+}
+
+.bodyBlock {
+    width: 80%;
+    float: center;
+    margin: 0 auto;
+}
+
+#white {
+    background-color: #ffffff;
+    height: 700px;
+}
+
+#black {
+    background-color: #202020;
+    height: 100px;
+}
