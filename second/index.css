@@ -1,0 +1,68 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.topBlock {
+    margin: 50px;
+    height: 20vh;
+    padding: 15px;
+    width: auto;
+    border: 5px solid #000;
+}
+
+.purpleRec {
+    height: 120px;
+    width: 50px;
+    background-color: blueviolet;
+    display: inline-block;
+}
+
+.greenRec {
+    margin-left: 30px;
+    height: 160px;
+    width: 400px;
+    background-color: forestgreen;
+    display: inline-block;
+}
+
+.blueCirc {
+    margin-left: 30px;
+    height: 160px;
+    width: 160px;
+    background-color: skyblue;
+    display: inline-block;
+    border-radius: 50%
+}
+
+.middleBlock {
+    margin: 50px;
+    padding: 40px;
+    height: 20vh;
+    width: auto;
+    border: 5px dotted #000;
+}
+
+.tanRec {
+    height: 100%;
+    width: 100%;
+    background-color: lemonchiffon;
+    box-shadow: 7px 7px 5px #333333;
+}
+
+.bottomBlock {
+    margin: 50px auto;
+    padding: 100px;
+    height: 275px;
+    width: 500px;
+    border: 1px solid #bebebe;
+    box-shadow: 3px 3px 3px #9c9c9c;
+    box-sizing: border-box;
+}
+
+.bottomText {
+    margin: auto;
+    color: darkblue;
+    text-align: center;
+    letter-spacing: 10px;
+}
